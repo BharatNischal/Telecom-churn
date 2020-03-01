@@ -1,1 +1,2 @@
-# Telecom-churn
+# This Repo Contain the 1st step of the predicting the Customers who can churn.
+# The next step will be to apply Unsupervised learning algorithms to group the related customers into groups and find key characteristics of the group.
